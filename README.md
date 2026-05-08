@@ -40,18 +40,11 @@ Estudante de Engenharia na Universidade Tecnológica Federal do Paraná (UTFPR) 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=transparent" alt="Matheus's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=transparent" alt="Top Langs" />
-</p>
-
 ### 📫 Connect with me | Conecte-se comigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a> •
-  <a href="mailto:matheusrosa@alunos.utfpr.edu.br">matheusrosa@alunos.utfpr.edu.br</a>
+  <a href="www.linkedin.com/in/matheus-rosa-5b7b092b6" target="_blank">LinkedIn</a> •
+  <a href="mailto:joserosamatheus3@gmail.com">joserosamatheus3@gmail.com</a>
 </p>
 
  
